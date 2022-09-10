@@ -7,7 +7,7 @@ namespace HGS
         static void Main()
         {
             /*
-             * These codes are written for testing the modules.
+             * These codes are written to test modules.
             Vehicle car1 = new();
             car1.HGSNumber = "a";
             car1.OwnerName = "sedat";
